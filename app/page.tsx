@@ -4,7 +4,6 @@ import DashboardStats from "./components/DashboardStats";
 import StudentList from "./components/StudentList";
 import StudentForm from "./components/StudentForm";
 import { sampleStudents } from "../lib/sampleData";
-import PaymentsChart from "./components/PaymentsChart";
 import { useState } from "react";
 import { Student } from "./types";
 import PaymentCharts from "./components/PaymentsChart";
