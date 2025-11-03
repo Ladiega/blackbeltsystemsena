@@ -1,4 +1,4 @@
-import { Student } from "../app/components/StudentList";
+import { Student } from "./types";
 
 export const sampleStudents: Student[] = [
   {
