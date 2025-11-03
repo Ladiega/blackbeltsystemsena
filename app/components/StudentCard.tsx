@@ -1,5 +1,5 @@
 "use client";
-import type { Student } from "../types";
+import type { Student } from "../../lib/types";
 
 export default function StudentCard({ student }: { student: Student }) {
   return (

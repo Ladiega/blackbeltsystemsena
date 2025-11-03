@@ -5,7 +5,7 @@ import StudentList from "./components/StudentList";
 import StudentForm from "./components/StudentForm";
 import { sampleStudents } from "../lib/sampleData";
 import { useState } from "react";
-import { Student } from "./types";
+import { Student } from "../lib/types";
 import PaymentCharts from "./components/PaymentsChart";
 
 export default function Home() {
