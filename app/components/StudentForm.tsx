@@ -2,7 +2,7 @@
 "use client";
 
 import { useState } from "react";
-import type { Student } from "../types";
+import type { Student } from "../../lib/types";
 
 type Props = {
   onAddStudent: (student: Student) => void;
